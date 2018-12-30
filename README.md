@@ -1,2 +1,2 @@
 # GithubOrganizationPlan
-Github组织搭建技术
+Github组织搭建计划
